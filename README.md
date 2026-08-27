@@ -2,9 +2,9 @@
 
 ### Technology Support | IT Support | Service Desk | Networks & Infrastructure | Cybersecurity
 
-I'm a technology support professional with hands-on experience supporting users, troubleshooting technical issues, managing user accounts, and documenting solutions.
+Technology Support professional with hands-on experience in IT support, technical troubleshooting, user administration and infrastructure.
 
-I'm currently pursuing an MSc in Computer Engineering (Cybersecurity) in Warsaw, Poland, while continuing to build practical skills across IT support, networking, systems administration, and cybersecurity.
+I'm currently pursuing an MSc in Computer Engineering (Cybersecurity) in Warsaw, Poland, while building practical skills across IT support, networking, systems administration and cybersecurity.
 
 ## 🔧 Technical Skills
 
@@ -24,10 +24,10 @@ I'm currently pursuing an MSc in Computer Engineering (Cybersecurity) in Warsaw,
 ## 🛠️ Featured Projects
 
 ### Active Directory & Windows Infrastructure Lab
-Windows Server lab covering Active Directory, DNS, DHCP, file/print services, user management, permissions, and PowerShell automation.
+Windows Server lab covering Active Directory, DNS, DHCP, file/print services, user management, permissions and PowerShell automation.
 
-### IT Help Desk Ticketing 
-JIRA Service Management project covering ticket triage, incident handling, troubleshooting documentation, and knowledge-base development.
+### IT Help Desk Ticketing & Knowledge Base
+JIRA Service Management project covering ticket triage, incident handling, troubleshooting documentation and knowledge-base development.
 
 ### IT Support Knowledge Base
 Practical troubleshooting guides and SOPs covering common IT support scenarios.
