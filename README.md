@@ -23,6 +23,9 @@ I'm currently pursuing an MSc in Computer Engineering (Cybersecurity) in Warsaw,
 
 ## 🛠️ Featured Projects
 
+###Enterprise IT Operations & Security Lab
+Hands-on infrastructure lab, Windows Server, Active Directory, DNS, Group Policy, File Services, Ubuntu Monitoring, PowerShell, Incident Investigation
+
 ### Active Directory & Windows Infrastructure Lab
 Windows Server lab covering Active Directory, DNS, DHCP, file/print services, user management, permissions and PowerShell automation.
 
@@ -31,6 +34,8 @@ JIRA Service Management project covering ticket triage, incident handling, troub
 
 ### IT Support Knowledge Base
 Practical troubleshooting guides and SOPs covering common IT support scenarios.
+
+
 
 ## 🎓 Education & Certifications
 
