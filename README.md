@@ -23,7 +23,7 @@ I'm currently pursuing an MSc in Computer Engineering (Cybersecurity) in Warsaw,
 
 ## 🛠️ Featured Projects
 
-###Enterprise IT Operations & Security Lab
+### Enterprise IT Operations & Security Lab
 Hands-on infrastructure lab, Windows Server, Active Directory, DNS, Group Policy, File Services, Ubuntu Monitoring, PowerShell, Incident Investigation
 
 ### Active Directory & Windows Infrastructure Lab
